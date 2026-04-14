@@ -1,17 +1,18 @@
-Учебный проект: контейнеризация web-приложения
-## Stack
-- FastAPI
-- PostgreSQL
-- Docker
-- Docker Compose
-- Nginx
+# Dockerized Web App (DevOps Learning Project)
 
-## Run
-```bash
-docker compose up --build
-## 💾 1.5 Первый коммит
+## 📌 Description
+Учебный проект для практики контейнеризации и DevOps-подходов.
 
-```bash
-git add .
-git commit -m "init project"
-git push -u origin main
+## 🧱 Architecture (planned)
+- FastAPI (backend)
+- PostgreSQL (database)
+- Nginx (reverse proxy)
+- Docker + Docker Compose
+
+## 🚀 Goals
+- Научиться писать Dockerfile
+- Настроить взаимодействие контейнеров
+- Поднять полноценный сервис
+
+## 📂 Structure
+(to be added)
